@@ -1,0 +1,21 @@
+[submodule "java/talend/connector"]
+	path = java/talend/connector
+	url = Stefan@Uranus:git/connector.git
+[submodule "java/virt_jena"]
+	path = java/virt_jena
+	url = Stefan@Uranus:git/virt_jena.git
+[submodule "java/talend/components/tJenaConnection"]
+	path = java/talend/components/tJenaConnection
+	url = Stefan@Uranus:git/comp/tJenaConnection
+[submodule "java/talend/components/tJenaSparqler"]
+	path = java/talend/components/tJenaSparqler
+	url = Stefan@Uranus:git/comp/tJenaSparqler
+[submodule "java/talend/components/tJenaResourceFetcher"]
+	path = java/talend/components/tJenaResourceFetcher
+	url = Stefan@Uranus:git/comp/tJenaResourceFetcher
+[submodule "java/talend/components/tJenaTripleOutput"]
+	path = java/talend/components/tJenaTripleOutput
+	url = Stefan@Uranus:git/comp/tJenaTripleOutput
+[submodule "java/talend/components/lib"]
+	path = java/talend/components/lib
+	url = Stefan@Uranus:git/comp/lib
